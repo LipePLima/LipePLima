@@ -1,6 +1,6 @@
 ## Eai! Eu me chamo Felipe Lima
 
-- 🌱 Estudando JavaScript, Python, HMTL e CSS.
+- 🌱 Estudando JavaScript, HMTL e CSS.
 
 <div align="center">
   <a href="https://github.com/LipePLima">
