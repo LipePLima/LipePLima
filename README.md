@@ -7,8 +7,19 @@
 </div>
   
 ## Tecnologias
-<img align="center" alt="Fil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/><img align="center" alt="Fil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Fil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Fil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- Angular;
+- TypeScript;
+- JavaScript;
+- HTML;
+- CSS;
+- Vercel;
+- Bohr;
+- API Rest
+  
+Para mais detalhes, veja meu último projeto! <br>
+Link: https://github.com/LipePLima/ToDo
 
+  
  ## Contato
  <div> 
     <a href="mailto:felipe.lima0160@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
