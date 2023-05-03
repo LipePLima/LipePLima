@@ -18,7 +18,7 @@
 - API Rest
   
 Para mais detalhes, veja meu último projeto! <br>
-Link: https://github.com/LipePLima/ToDo
+Link: https://github.com/LipePLima/negociacao-com-typescript
 
   
  ## Contato
