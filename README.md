@@ -7,7 +7,7 @@
 </div>
   
 ## Tecnologias
-- React.js;
+- React;
 - Node.js;
 - AngularJS;
 - TypeScript;
