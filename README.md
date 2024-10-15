@@ -7,14 +7,13 @@
 </div>
   
 ## Tecnologias
-- React;
-- Node;
-- Angular;
+- React.js;
+- Node.js;
+- AngularJS;
 - TypeScript;
 - JavaScript;
 - HTML;
 - CSS;
-- Vercel;
   
  ## Contato
  <div> 
