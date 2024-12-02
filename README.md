@@ -5,16 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipePLima&theme=blue-green"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePLima&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
-  
-## Tecnologias
-- React;
-- Node.js;
-- AngularJS;
-- TypeScript;
-- JavaScript;
-- HTML;
-- CSS;
-  
+    
  ## Contato
  <div> 
     <a href="mailto:felipe.lima0160@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
